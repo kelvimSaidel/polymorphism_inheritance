@@ -11,7 +11,7 @@ added to the price tag as per example (next page). For products imported, the ta
 
 ## Layout
 
-![INTERFACE](https://github.com/kelvimSaidel/composition_and_enumeration_java/blob/master/src/assets/assets.CompositionImage1.PNG)
+![INTERFACE](https://github.com/kelvimSaidel/polymorphism_inheritance/tree/main/src/assets)
 
 
 ## Conceptual data model
