@@ -1,4 +1,4 @@
-# Virtual Order Pad
+# Price List
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/kelvimSaidel/composition_and_enumeration_java/blob/master/LICENSE)
 
