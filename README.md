@@ -16,7 +16,7 @@ added to the price tag as per example (next page). For products imported, the ta
 
 ## Conceptual data model
 
-![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/composition_and_enumeration_java/blob/master/src/assets/assets.CompositionImage2.PNG)
+![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/polymorphism_inheritance/blob/a371115f082508b8c7c436a435d97106b3a33a8a/src/assets/Conceptual_data_model.PNG)
 
 ## Technologies used
 
