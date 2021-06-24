@@ -31,6 +31,9 @@ Precondition: java 11
 git clone https://github.com/kelvimSaidel/polymorphism_inheritance.git
 
 #enter in the  folder
+cd polymorphism_inheritance
+
+#enter in the  folder
 cd src
 
 #enter in the  folder
